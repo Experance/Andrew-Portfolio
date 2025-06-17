@@ -64,7 +64,7 @@ Aspiring Robotics Software Engineer | FIRST Robotics Alum | CS Student
 ## 🧠 Skills
 - Languages: Python, Java
 - Tools: OpenCV, Git, WPILib Tools
-- Other: Electrical (Wiring, Sautering)
+- Other: Electrical (Wiring, Sautering), PID-Controller, Command-based Programming
 
 ---
 
