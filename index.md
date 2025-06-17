@@ -69,7 +69,3 @@ GitHub: [github.com/Experance](https://github.com/Experance)
 LinkedIn: [linkedin.com/in/andrew-wood-936564245](https://linkedin.com/in/andrew-wood-936564245)
 
 ---
-
-<footer>
-<p>Last updated: {{ site.time | date: '%B %Y' }}</p>
-</footer>
