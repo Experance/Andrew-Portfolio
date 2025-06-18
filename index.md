@@ -38,6 +38,7 @@ Aspiring Robotics Software Engineer | FIRST Robotics Alum | CS Student
 - **Tech**: Java, WPILib, Command Based Programming, Servos, Motors
 - This was our high school Robotics Club's first time ever doing FRC, and of course, my first time as well. My brother and I spearheaded the effort by putting together (wiring both power and CAN message cables as well) and programming basic components -- literally just trying to get motors to run and such -- and learning as much as possible.
 - As we gained experience, we began putting together more complex systems, and I did less wiring and more programming as more engineers in our club joined the effort. By the end of the school year, we had a swerve drive robot (8 motors for the drive chain, where 4 determine the direction of the wheels and another 4 rotate the wheels forward and backward) with an arm that could extend, which also had a wrist at the end that held an intake.
+- There is a video [here]([https://www.youtube.com/watch?v=HsitvZ0JaDc](https://www.youtube.com/watch?v=9keeDyFxzY4)) that describes the 2024 competition in detail.
 
 ![FRC_robot_worlds_pic_with_ring](https://github.com/user-attachments/assets/089543ef-8e11-48b1-942f-7a2753c9fa49)
 
